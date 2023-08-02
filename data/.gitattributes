@@ -1,0 +1,6 @@
+replicate2/gentamicin.h5ad filter=lfs diff=lfs merge=lfs -text
+replicate2/meropenem.h5ad filter=lfs diff=lfs merge=lfs -text
+replicate1/ciprofloxacin.h5ad filter=lfs diff=lfs merge=lfs -text
+replicate1/gentamicin.h5ad filter=lfs diff=lfs merge=lfs -text
+replicate1/meropenem.h5ad filter=lfs diff=lfs merge=lfs -text
+replicate2/ciprofloxacin.h5ad filter=lfs diff=lfs merge=lfs -text
